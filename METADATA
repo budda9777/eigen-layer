@@ -2,6 +2,6 @@
   "name": "Super Validator",
   "website": "",
   "description": "A reliable testnet validator",
-  "logo": "./logo.png",
+  "logo": "logo.png",
   "twitter": ""
 }
